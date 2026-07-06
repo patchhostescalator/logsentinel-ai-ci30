@@ -1,4 +1,4 @@
-# 
+# Gratuito LogSentinel paquete. Descarga e instala con bajo uso de recursos y verificación de compatibilidad — rápido, seguro y fácil de usar.
 
 
 
